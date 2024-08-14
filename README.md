@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
