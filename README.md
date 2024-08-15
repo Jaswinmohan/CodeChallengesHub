@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
