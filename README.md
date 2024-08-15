@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
@@ -33,9 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
