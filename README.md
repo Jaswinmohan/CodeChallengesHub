@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
 ## Prefix Sum
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0693-binary-number-with-alternating-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
