@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0290-word-pattern) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0693-binary-number-with-alternating-bits) |
 ## Two Pointers
 |  |
@@ -74,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
