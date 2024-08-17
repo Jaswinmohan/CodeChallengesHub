@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0290-word-pattern) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
