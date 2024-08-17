@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0242-valid-anagram) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
