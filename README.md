@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0228-summary-ranges) |
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
