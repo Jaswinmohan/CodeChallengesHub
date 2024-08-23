@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
