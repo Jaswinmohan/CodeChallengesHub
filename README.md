@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0228-summary-ranges) |
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0202-happy-number) |
 ## Simulation
 |  |
