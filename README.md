@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
