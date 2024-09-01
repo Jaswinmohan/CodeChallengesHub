@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0176-second-highest-salary) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
