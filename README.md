@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
