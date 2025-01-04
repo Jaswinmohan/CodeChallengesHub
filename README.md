@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0693-binary-number-with-alternating-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
