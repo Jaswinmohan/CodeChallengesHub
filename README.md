@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
