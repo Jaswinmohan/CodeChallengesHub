@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2465-shifting-letters-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2145-grid-game) |
 ## String Matching
 |  |
 | ------- |
