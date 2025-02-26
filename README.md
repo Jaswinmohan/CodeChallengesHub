@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0724-find-pivot-index) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/0392-is-subsequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jaswinmohan/CodeChallengesHub/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
